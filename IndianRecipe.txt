@@ -1,0 +1,14 @@
+Software Technologies:
+
+Java
+C#
+.Net
+Python
+Perl 
+Shell
+Ruby
+Haskell
+Objective-C
+PHP
+
+
